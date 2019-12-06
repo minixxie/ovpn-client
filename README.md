@@ -1,2 +1,2 @@
-# pritunl-client
-pritunl-client
+# ovpn-client
+ovpn-client
